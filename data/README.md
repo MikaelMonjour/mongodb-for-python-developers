@@ -5,3 +5,5 @@ To restore any of these databases to MongoDB, you'll need to uncompress them and
 ```
 mongorestore --drop --db DATABASE /path/to/unziped/dir
 ```
+
+PS : This command is to be executed in the shell (not after the mango command)
